@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zurtaradze
+- 👋 Hi, I’m Zurab Kavtaradze
 - 👀 I’m interested in .NET development
 - 🌱 I’m currently learning algorithms and data structures
 - 💞️ I’m looking to collaborate on interesting projects
